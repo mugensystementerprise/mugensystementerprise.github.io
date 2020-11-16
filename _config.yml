@@ -2,4 +2,4 @@ title: Mugen System Enterprise (MuSE)
 logo: /assets/img/logo.png
 description: A prototype for MuSE landing page
 theme: jekyll-theme-minimal
-
+permalink: /blog/:year/:month/:day/:title
